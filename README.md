@@ -1,6 +1,6 @@
 # Inteligencia Artificial Avanzada para la Ciencia de Datos II
 
-## Reto Arca Continental 
+## Reto - Arca Continental 
 
 ### Equipo 5 - Tecnológico de Monterrey (Séptimo semestre)
 

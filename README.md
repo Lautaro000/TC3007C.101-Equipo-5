@@ -2,6 +2,10 @@
 
 ## Reto - Arca Continental 
 
+## Reporte
+
+https://docs.google.com/document/d/13D1V6NsWHkEoMxjeETS4NCVIAQHksZi4k4Gv8iqMRzw/edit?tab=t.0
+
 ### Equipo 5 - Tecnológico de Monterrey (Séptimo semestre)
 
 - **Lautaro Gabriel Coteja** - A01571214

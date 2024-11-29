@@ -20,6 +20,6 @@ El proyecto está organizado en los siguientes archivos y carpetas:
 
 ### Otros archivos:
 
-- **Presentacion - Reto Arca Continental - Presentación Final.pdf**: Presentación del proyecto.
-- **Reporte - Reporte - Equipo 5.pdf**: Reporte final del proyecto con conclusiones y análisis detallado.
+- **Reto Arca Continental - Presentación Final.pdf**: Presentación del proyecto.
+- **Reporte - Equipo 5.pdf**: Reporte final del proyecto con conclusiones y análisis detallado.
 - **README.md**: Este archivo.

@@ -16,3 +16,12 @@ https://docs.google.com/document/d/13D1V6NsWHkEoMxjeETS4NCVIAQHksZi4k4Gv8iqMRzw/
 ### Estructura del proyecto
 
 El proyecto está organizado en los siguientes archivos y carpetas:
+
+### `datasets/`
+- **df_entrenamiento.csv**: Conjunto de datos de entrenamiento después del preprocesamiento.
+- **df_prueba.csv**: Conjunto de datos de prueba después del preprocesamiento.
+
+### Notebooks de Jupyter
+- **Random_Forest.ipynb**: Implementación de un modelo de Random Forest para la predicción de productos exitosos.
+- **Regresion_Logistica.ipynb**: Implementación de un modelo de Regresión Logística para la predicción de productos exitosos.
+- **Red_Neuronal.ipynb**: Implementación de una Red Neuronal para la predicción de productos exitosos.

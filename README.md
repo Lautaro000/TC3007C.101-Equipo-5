@@ -17,3 +17,9 @@ El proyecto está organizado en los siguientes archivos y carpetas:
 - **Random_Forest.ipynb**: Implementación de un modelo de Random Forest para la predicción de productos exitosos.
 - **Regresion_Logistica.ipynb**: Implementación de un modelo de Regresión Logística para la predicción de productos exitosos.
 - **Red_Neuronal.ipynb**: Implementación de una Red Neuronal para la predicción de productos exitosos.
+
+### Otros archivos:
+
+- **Presentacion - Reto Arca Continental - Presentación Final.pdf**: Presentación del proyecto.
+- **Reporte - Reporte - Equipo 5.pdf**: Reporte final del proyecto con conclusiones y análisis detallado.
+- **README.md**: Este archivo.
